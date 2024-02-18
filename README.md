@@ -18,7 +18,7 @@ At Studios Utopian, we are committed to protecting the privacy and security of o
 
 Please find below the list of privacy policies included in this repository:
 
-- [The Sheep Game Privacy Policy](The%20Sheep%20Game/PrivacyPolicy.md): This policy outlines the privacy practices specific to our mobile application "The Sheep Game".
+- [The Sheep Game Privacy Policy](The%20Sheep%20Game/Privacy%20Policy.md): This policy outlines the privacy practices specific to our mobile application "The Sheep Game".
 
 Please review each policy document for a comprehensive understanding of our privacy practices.
 
